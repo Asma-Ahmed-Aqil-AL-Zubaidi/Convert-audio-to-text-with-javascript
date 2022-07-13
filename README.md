@@ -45,7 +45,7 @@ This is the HTML code
 </body>
 </html>
 
-‏لقطة الشاشة ١٤٤٣-١٢-١٥ في ٢.٣٢.١٧ ص.png…]()
+<img width="416" alt="image" src="https://user-images.githubusercontent.com/108140215/178854890-39a214d1-84d6-46e2-8af1-a54b7c717b20.png">
 
 
 3-The second step is writing the javascript code and using the appropriate library + connecting the javascript with the html
